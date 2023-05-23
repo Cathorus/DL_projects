@@ -4,15 +4,15 @@ Welcome to the Deep Learning Projects repository! This repository showcases a co
 
 ## Projects
 
-🖼️ CIFAR_10 Object Recognition using ResNet50
-💬 Breast Cancer Classification with Neural Network
-🔍 Breast Cancer Detection
-🐶🐱 Dog vs Cat Classification
-📊 Ensemble Learning
-🎭 Face Mask Detection using CNN
-😃 IMDB Emotion Analysis
-🔢 MNIST Digit Classification
-📐 Preparing Image Data for Deep Learning
+-🖼️ CIFAR_10 Object Recognition using ResNet50
+-💬 Breast Cancer Classification with Neural Network
+-🔍 Breast Cancer Detection
+-🐶🐱 Dog vs Cat Classification
+-📊 Ensemble Learning
+-🎭 Face Mask Detection using CNN
+-😃 IMDB Emotion Analysis
+-🔢 MNIST Digit Classification
+-📐 Preparing Image Data for Deep Learning
 
 ## Topics Covered
 
